@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fa767c691f94acc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "976f55060e0bb9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5f3af10f316852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPENT/5 Web Application Penetration Testing/1 web Application Footprinting and Enumeration Techniques/HTB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3647ccb38b5a79b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8889e3e02c42fd69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4884a87aacd69b0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3745e0814364a7ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "bb245b74e66cf43f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61296de6bb15ebc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f850a892d133e175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99171f52dc212df5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EJPT/192.168.100.52.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 192.168.100.52"
+            }
+          },
+          {
+            "id": "1bfb48fc006db6c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EJPT/192.168.100.52.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 192.168.100.52"
+            }
+          },
+          {
+            "id": "99e9a90f19103f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7edfa2ec26840ef6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e4503ab9bac988ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EJPT/192.168.100.52.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 192.168.100.52"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "6c5f3af10f316852",
+  "lastOpenFiles": [
+    "CPENT/Active Directory Penetration Testing/2. Enumeración/PowerShell.md",
+    "CPENT/Active Directory Penetration Testing/1. Reconocimiento.md",
+    "CPENT/Active Directory Penetration Testing/Sin título.md",
+    "CPENT/5 Web Application Penetration Testing/1 web Application Footprinting and Enumeration Techniques/HTB.md",
+    "CPENT/Active Directory Penetration Testing/2. Enumeración/Enumeración de SPN's.md",
+    "Pasted image 20260705162906.png",
+    "Pasted image 20260705162901.png",
+    "Pasted image 20260705162855.png",
+    "Pasted image 20260705162738.png",
+    "Pasted image 20260705162724.png",
+    "Pasted image 20260705162507.png",
+    "Pasted image 20260704174658.png",
+    "CPENT/Pivoting",
+    "CPENTv2 Templates/CPENTv2 Templates/~$ENTv2 Module 14 Report Writing and Post Testing Actions - Penetration Testing Report.docx",
+    "CPENTv2 Templates/CPENTv2 Templates/~$ENTv2 Module 06 API and Java Web Token Penetration Testing.docx",
+    "CPENT/5 Web Application Penetration Testing/1 web Application Footprinting and Enumeration Techniques",
+    "CPENT/5 Web Application Penetration Testing",
+    "CPENT/Active Directory Penetration Testing/2. Enumeración",
+    "README.md",
+    "fdgdfg.md",
+    "Bienvenido.md",
+    "192.168.100.51.md",
+    "EJPT/LocalHost 192.168.100.5.md",
+    "EJPT/192.168.100.52.md",
+    "EJPT/192.168.100.55.md",
+    "EJPT/192.168.100.50.md",
+    "EJPT",
+    "CPENTv2 Templates/CPENTv2 Templates/CPENTv2 Module 14 Report Writing and Post Testing Actions - Sign-off Document.docx",
+    "CPENTv2 Templates/CPENTv2 Templates/CPENTv2 Module 14 Report Writing and Post Testing Actions - Penetration Testing Report.docx",
+    "CPENTv2 Templates/CPENTv2 Templates/CPENTv2 Module 13 IoT Penetration Testing.docx",
+    "Sin títulodsaffd.md",
+    "CPENT/Tarea.md"
+  ]
+}
